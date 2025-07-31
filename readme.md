@@ -1,14 +1,12 @@
 # titulo 1
 ## ana 
 
-* negrito*
+*negrito*   
 'isso é um codigo de programação'
+
 
 
 
 
 jhgfhjigx 
 
-
-
-!
